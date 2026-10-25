@@ -187,22 +187,31 @@
 <hr/>
 
 <!-- FEATURED PROJECTS / REPOSITORIES -->
-<h2 align="center">🚀 Featured Repositories & Tinkering</h2>
+<h2 align="center">🚀 Featured Repositories & Architecture</h2>
 
 <div align="center">
+  <a href="https://github.com/x-TheFox/Cortex-54">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-TheFox&repo=Cortex-54&theme=radical&hide_border=true&bg_color=0D1117" alt="Cortex-54" />
+  </a>
+  <a href="https://github.com/x-TheFox/Distributed_Cache">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-TheFox&repo=Distributed_Cache&theme=radical&hide_border=true&bg_color=0D1117" alt="Distributed_Cache" />
+  </a>
+  <br/>
   <a href="https://github.com/x-TheFox/Systemic">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-TheFox&repo=Systemic&theme=radical&hide_border=true&bg_color=0D1117" alt="Systemic" />
   </a>
-  <a href="https://github.com/x-TheFox/CrystalSpace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-TheFox&repo=CrystalSpace&theme=radical&hide_border=true&bg_color=0D1117" alt="CrystalSpace" />
+  <a href="https://github.com/x-TheFox/Corvus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-TheFox&repo=Corvus&theme=radical&hide_border=true&bg_color=0D1117" alt="Corvus" />
   </a>
+  <!-- Optional 3rd Row: Uncomment after adding About descriptions to Vanguard / CRB -->
   <br/>
-  <a href="https://github.com/x-TheFox/otherPlanets-skript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-TheFox&repo=otherPlanets-skript&theme=radical&hide_border=true&bg_color=0D1117" alt="otherPlanets-skript" />
+  <a href="https://github.com/x-TheFox/Vanguard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-TheFox&repo=Vanguard&theme=radical&hide_border=true&bg_color=0D1117" alt="Vanguard" />
   </a>
-  <a href="https://github.com/x-TheFox/SpotX-Linux">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-TheFox&repo=SpotX-Linux&theme=radical&hide_border=true&bg_color=0D1117" alt="SpotX-Linux" />
+  <a href="https://github.com/x-TheFox/Autonomous-Opportunity-Arbitrage-Engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-TheFox&repo=Autonomous-Opportunity-Arbitrage-Engine&theme=radical&hide_border=true&bg_color=0D1117" alt="Autonomous-Opportunity-Arbitrage-Engine" />
   </a>
+  
 </div>
 
 <br/>
