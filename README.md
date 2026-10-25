@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.com/users/957280208426262578">
-    <img src="https://img.shields.io/badge/Discord-The__Fox-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-wavelesspath-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=x-TheFox&style=for-the-badge&color=fe428e&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
